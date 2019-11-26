@@ -1,2 +1,6 @@
 project web perpustakaan
 web SMK SRIWEDARI MALANG
+Fitur yang akan ditambahkan :
+  a. Sistem Login User dan Admin  
+  b. Sistem List Buku
+  c. Sistem pengelolaan user (CRUD), lupa password, aktivasi dll
